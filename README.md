@@ -64,14 +64,15 @@ pip install -r requirements.txt
 - Primary metric: **Pearson Correlation Coefficient** between predicted and actual scores.
 
 ```python
-📈 Pearson Correlation: 0.83  # (example output)
+📈 Pearson Correlation: 0.794
 ```
 
 ## 📊 Visualization
 
 A scatter plot is generated to visualize predicted vs true scores:
 
-![Grammar Score Scatter Plot](./assets/predicted_vs_true.png)  <!-- Add path if saving plots -->
+![output](https://github.com/user-attachments/assets/9bcdd86d-7834-4ec5-871a-06e512bbac38)
+
 
 ## 🗃️ File Descriptions
 
@@ -87,7 +88,7 @@ A scatter plot is generated to visualize predicted vs true scores:
 
 | Metric              | Value         |
 |---------------------|---------------|
-| Pearson Correlation | ~0.83         |
+| Pearson Correlation | ~0.794         |
 | Test Predictions    | 195 Samples   |
 | Output File         | `submission.csv` |
 
