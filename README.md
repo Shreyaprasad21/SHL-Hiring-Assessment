@@ -100,9 +100,7 @@ A scatter plot is generated to visualize predicted vs true scores:
 
 ## 👨‍💻 Author
 
-- **Himank**  
+- **Shreya Prasad**  
 - Built as part of SHL Labs Hiring Assessment.
 
 ---
-
-**Note**: Please ensure you follow all submission rules as per the assessment guidelines.
